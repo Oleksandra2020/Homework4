@@ -9,7 +9,7 @@ been directed in each mentioned country
 Use package manager pip to install analysis.py
 
 ```bash
-pip install analysis_of_genres
+pip install analysis
 ```
 
 ## Usage
